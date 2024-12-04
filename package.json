@@ -3,7 +3,7 @@
   "description": "The official, up to date version of incognito",
   "type": "module",
   "version": "1.0.3",
-  "packageManager": "pnpm@8.8.0",
+  "packageManager": "pnpm@9.0.0",
   "scripts": {
     "dev": "astro dev",
     "start": "dotenvx run -- tsx server/server.ts",
